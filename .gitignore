@@ -19,19 +19,18 @@ npm-debug.log*
 yarn-error.log
 
 /coverage
-yarn.lock
 package-lock.json
 pnpm-lock.yaml
 *bak
 
 # visual studio code
 .history
+yarn.lock
 *.log
 functions/*
 .temp/**
 
 # umi
-.umi
 .umi-production
 
 # screenshot
