@@ -1,57 +1,6 @@
-# Ant Design Pro
-
-This project is initialized with [Ant Design Pro](https://pro.ant.design). Follow is the quick guide for how to use.
-
-## Environment Prepare
-
-Install `node_modules`:
-
-```bash
-npm install
-```
-
-or
-
-```bash
-yarn
-```
-
-## Provided Scripts
-
-Ant Design Pro provides some useful script to help you quick start and build with web project, code style check and test.
-
-Scripts provided in `package.json`. It's safe to modify or add additional script:
-
-### Start project
-
-```bash
-npm start
-```
-
-### Build project
-
-```bash
-npm run build
-```
-
-### Check code style
-
-```bash
-npm run lint
-```
-
-You can also use script to auto fix some lint error:
-
-```bash
-npm run lint:fix
-```
-
-### Test code
-
-```bash
-npm test
-```
-
-## More
-
-You can view full document on our [official website](https://pro.ant.design). And welcome any feedback in our [github](https://github.com/ant-design/ant-design-pro).
+### 一个用户的后台管理系统，这是系统的前端代码
+### A user's background management system, this is the front-end code of the system
+##### 包含基础的登陆注册和用户查看，运用antd和umi，用户创建等暂未实现
+##### Includes basic login registration and user viewing, using antd and umi, user creation and other not yet implemented
+##### 可用此作为模板来快速开发一个后台系统
+##### You can use this as a template to quickly develop a backend system
